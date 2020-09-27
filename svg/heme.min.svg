@@ -1,0 +1,358 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" viewBox="0 0 891.3 649" enable-background="new 0 0 891.3 649" xml:space="preserve">
+  <g id="Static">
+    <rect x="525.8" y="109.5" fill="none" width="151" height="54"/>
+    <text transform="matrix(1 0 0 1 635.4907 118.019)" font-family="'MyriadPro-Regular'" font-size="12">
+      Cytosol
+    </text>
+    <rect x="525.8" y="109.5" fill="none" width="151" height="54"/>
+    <text transform="matrix(1 0 0 1 635.4907 118.019)" fill="#005C8A" font-family="'MyriadPro-Regular'" font-size="12">
+      Cytosol
+    </text>
+    <rect x="170.8" y="109" fill="none" width="203" height="55"/>
+    <text transform="matrix(1 0 0 1 174.8345 117.5195)" font-family="'MyriadPro-Regular'" font-size="12">
+      Mitochondria
+    </text>
+    <rect x="170.8" y="109" fill="none" width="203" height="55"/>
+    <text transform="matrix(1 0 0 1 174.8345 117.5195)" fill="#7F0018" font-family="'MyriadPro-Regular'" font-size="12">
+      Mitochondria
+    </text>
+    <path fill="none" stroke="#7F0018" stroke-dasharray="2" d="M374.6 164.3"/>
+    <polygon fill="none" stroke="#005C8A" stroke-dasharray="2" points="525.8 107.5 378.8 107.5 378.8 164.5 379 164.5 525.8 472.3 525.8 530.5 676.8 530.5 676.8 107.5 "/>
+    <polygon fill="none" stroke="#7F0018" stroke-dasharray="2" points="520.7 473.5 373.8 165.5 373.8 107.5 170.8 107.5 170.8 530.5 373.8 530.5 520.8 530.5 520.8 473.5 "/>
+  </g>
+  <g id="Layer_49">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="356.3" y1="147" x2="548.3" y2="147"/>
+    <polygon points="541.5 155.3 540.2 153.8 547.4 147.1 540.2 140.4 541.5 138.9 550.3 147.1 "/>
+  </g>
+  <g id="Layer_48">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="604.3" y1="164" x2="604.3" y2="246"/>
+    <polygon points="596.2 239.2 597.6 237.8 604.3 245.1 611 237.8 612.5 239.2 604.3 248 "/>
+  </g>
+  <g id="Layer_47">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="604.3" y1="283" x2="604.3" y2="365"/>
+    <polygon points="596.2 358.2 597.6 356.8 604.3 364.1 611 356.8 612.5 358.2 604.3 367 "/>
+  </g>
+  <g id="Layer_46">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="604.3" y1="402" x2="604.3" y2="484"/>
+    <polygon points="596.2 477.2 597.6 475.8 604.3 483.1 611 475.8 612.5 477.2 604.3 486 "/>
+  </g>
+  <g id="Layer_45">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="534.3" y1="503" x2="361.3" y2="503"/>
+    <polygon points="368.1 494.8 369.5 496.3 362.3 503 369.5 509.7 368.1 511.2 359.3 503 "/>
+  </g>
+  <g id="Layer_44">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="292.3" y1="486" x2="292.3" y2="421"/>
+    <polygon points="300.5 427.8 299.1 429.2 292.3 421.9 285.6 429.2 284.2 427.8 292.3 419 "/>
+  </g>
+  <g id="Layer_43">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="292.3" y1="385" x2="292.3" y2="320"/>
+    <polygon points="300.5 326.8 299.1 328.2 292.3 320.9 285.6 328.2 284.2 326.8 292.3 318 "/>
+  </g>
+  <g id="Layer_42">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="292.3" y1="232" x2="292.3" y2="172"/>
+    <polygon points="300.5 178.8 299.1 180.2 292.3 172.9 285.6 180.2 284.2 178.8 292.3 170 "/>
+  </g>
+  <g id="Layer_41">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M218.7 380.1c39.8 0 72.3-26.3 73.6-59.3"/>
+    <polygon points="299.9 328 298.3 329.3 292.1 321.6 284.9 328.3 283.5 326.8 292.3 318.7 "/>
+  </g>
+  <g id="Layer_40">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M218.7 229.1c39.8 0 72.2-25.3 73.6-56.9"/>
+    <polygon points="299.8 179.4 298.2 180.7 292.1 172.9 284.8 179.6 283.5 178.1 292.3 170 "/>
+  </g>
+  <g id="Layer_39">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M337.4 199.5c34.3 0.4 61.9 23.5 61.9 51.8 0 28.6-28.2 51.8-62.9 51.8 -5.8 0-11.5-0.7-16.8-1.9"/>
+    <rect x="336.4" y="193.1" transform="matrix(-0.9991 -4.150858e-02 4.150858e-02 -0.9991 666.2621 413.0042)" width="2" height="13"/>
+  </g>
+  <g id="Layer_38">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="148.3" y1="201" x2="244.3" y2="201"/>
+    <rect x="243.3" y="195" width="2" height="13"/>
+  </g>
+  <g id="Layer_37">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="135.3" y1="352" x2="241.3" y2="352"/>
+    <rect x="240.3" y="346" width="2" height="13"/>
+  </g>
+  <g id="Layer_36">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="121.3" y1="453" x2="227.3" y2="453"/>
+    <rect x="226.3" y="447" width="2" height="13"/>
+  </g>
+  <g id="Layer_35">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="443.3" y1="85" x2="443.3" y2="127"/>
+    <rect x="436.3" y="126" width="13" height="2"/>
+  </g>
+  <g id="Layer_34">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="447.3" y1="529" x2="447.3" y2="578"/>
+    <rect x="440.3" y="528" width="13" height="2"/>
+  </g>
+  <g id="Layer_33">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="658.3" y1="206" x2="727.3" y2="206"/>
+    <rect x="657.3" y="200" width="2" height="13"/>
+  </g>
+  <g id="Layer_32">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="669.3" y1="325" x2="716.3" y2="325"/>
+    <rect x="668.3" y="319" width="2" height="13"/>
+  </g>
+  <g id="Layer_31">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="662.3" y1="444" x2="740.3" y2="444"/>
+    <rect x="661.3" y="438" width="2" height="13"/>
+  </g>
+  <g id="Porphobilinogen">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M556.8 153.6c0 2.8 2.2 5 5 5h84.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-84.9c-2.8 0-5 2.2-5 5V153.6z"/>
+    <path fill="#FFFFFF" d="M556.8 153.6c0 2.8 2.2 5 5 5h84.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-84.9c-2.8 0-5 2.2-5 5V153.6z"/>
+    <text transform="matrix(1 0 0 1 561.8311 150.5991)" font-family="'MyriadPro-Regular'" font-size="12">
+      Porphobilinogen
+    </text>
+  </g>
+  <g id="Hydroxymethylbilane">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M545.3 272.3c0 2.8 2.2 5 5 5h108c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-108c-2.8 0-5 2.2-5 5V272.3z"/>
+    <path fill="#FFFFFF" d="M545.3 272.3c0 2.8 2.2 5 5 5h108c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-108c-2.8 0-5 2.2-5 5V272.3z"/>
+    <text transform="matrix(1 0 0 1 550.2573 269.2656)" font-family="'MyriadPro-Regular'" font-size="12">
+      Hydroxymethylbilane
+    </text>
+  </g>
+  <g id="Uroporphyrinogen_III">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M546.6 390.9c0 2.8 2.2 5 5 5h105.3c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H551.6c-2.8 0-5 2.2-5 5V390.9z"/>
+    <path fill="#FFFFFF" d="M546.6 390.9c0 2.8 2.2 5 5 5h105.3c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H551.6c-2.8 0-5 2.2-5 5V390.9z"/>
+    <text transform="matrix(1 0 0 1 551.6377 387.9316)" font-family="'MyriadPro-Regular'" font-size="12">
+      Uroporphyrinogen III
+    </text>
+  </g>
+  <g id="Coproporphyrinogen_III">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M540.3 509.6c0 2.8 2.2 5 5 5h117.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H545.3c-2.8 0-5 2.2-5 5V509.6z"/>
+    <path fill="#FFFFFF" d="M540.3 509.6c0 2.8 2.2 5 5 5h117.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H545.3c-2.8 0-5 2.2-5 5V509.6z"/>
+    <text transform="matrix(1 0 0 1 545.332 506.5977)" font-family="'MyriadPro-Regular'" font-size="12">
+      Coproporphyrinogen III
+    </text>
+  </g>
+  <g id="Porphobilinogen_x0D_deaminase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M556.8 220.1c0 2.8 2.2 5 5 5h84.9c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-84.9c-2.8 0-5 2.2-5 5V220.1z"/>
+    <path fill="#FFFFFF" d="M556.8 220.1c0 2.8 2.2 5 5 5h84.9c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-84.9c-2.8 0-5 2.2-5 5V220.1z"/>
+    <text transform="matrix(1 0 0 1 561.8311 202.7324)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Porphobilinogen
+      </tspan>
+      <tspan x="15.1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        deaminase
+      </tspan>
+    </text>
+  </g>
+  <g id="Uroporphyrinogen_III_x0D_synthase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M546.6 338.8c0 2.8 2.2 5 5 5h105.3c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H551.6c-2.8 0-5 2.2-5 5V338.8z"/>
+    <path fill="#FFFFFF" d="M546.6 338.8c0 2.8 2.2 5 5 5h105.3c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H551.6c-2.8 0-5 2.2-5 5V338.8z"/>
+    <text transform="matrix(1 0 0 1 551.6377 321.3989)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Uroporphyrinogen III
+      </tspan>
+      <tspan x="30.5" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        synthase
+      </tspan>
+    </text>
+  </g>
+  <g id="Uroporphyrinogen_x0D_decarboxylase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M552.2 457.5c0 2.8 2.2 5 5 5h94.1c2.8 0 5-2.2 5-5V430c0-2.8-2.2-5-5-5h-94.1c-2.8 0-5 2.2-5 5V457.5z"/>
+    <path fill="#FFFFFF" d="M552.2 457.5c0 2.8 2.2 5 5 5h94.1c2.8 0 5-2.2 5-5V430c0-2.8-2.2-5-5-5h-94.1c-2.8 0-5 2.2-5 5V457.5z"/>
+    <text transform="matrix(1 0 0 1 557.2109 440.0649)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Uroporphyrinogen
+      </tspan>
+      <tspan x="11.1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        decarboxylase
+      </tspan>
+    </text>
+  </g>
+  <g id="Protoporphyrinogen_IX">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M229.3 509.6c0 2.8 2.2 5 5 5h115.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H234.3c-2.8 0-5 2.2-5 5V509.6z"/>
+    <path fill="#FFFFFF" d="M229.3 509.6c0 2.8 2.2 5 5 5h115.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H234.3c-2.8 0-5 2.2-5 5V509.6z"/>
+    <text transform="matrix(1 0 0 1 234.314 506.5977)" font-family="'MyriadPro-Regular'" font-size="12">
+      Protoporphyrinogen IX
+    </text>
+  </g>
+  <g id="Protoporphyrin_IX">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M242.3 407.9c0 2.8 2.2 5 5 5h89.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-89.6c-2.8 0-5 2.2-5 5V407.9z"/>
+    <path fill="#FFFFFF" d="M242.3 407.9c0 2.8 2.2 5 5 5h89.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-89.6c-2.8 0-5 2.2-5 5V407.9z"/>
+    <text transform="matrix(1 0 0 1 247.2979 404.8843)" font-family="'MyriadPro-Regular'" font-size="12">
+      Protoporphyrin IX
+    </text>
+  </g>
+  <g id="Heme">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M272.2 306.2c0 2.8 2.2 5 5 5H307c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-29.9c-2.8 0-5 2.2-5 5V306.2z"/>
+    <path fill="#FFFFFF" d="M272.2 306.2c0 2.8 2.2 5 5 5H307c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-29.9c-2.8 0-5 2.2-5 5V306.2z"/>
+    <text transform="matrix(1 0 0 1 277.165 303.1699)" font-family="'MyriadPro-Regular'" font-size="12">
+      Heme
+    </text>
+  </g>
+  <g id="Ferrochelatase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M250.4 357c0 2.8 2.2 5 5 5h73.5c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-73.5c-2.8 0-5 2.2-5 5V357z"/>
+    <path fill="#FFFFFF" d="M250.4 357c0 2.8 2.2 5 5 5h73.5c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-73.5c-2.8 0-5 2.2-5 5V357z"/>
+    <text transform="matrix(1 0 0 1 255.355 354.0269)" font-family="'MyriadPro-Regular'" font-size="12">
+      Ferrochelatase
+    </text>
+  </g>
+  <g id="Protoprophyrinogen_x0D_oxidase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M235.4 465.9c0 2.8 2.2 5 5 5h103.3c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H240.4c-2.8 0-5 2.2-5 5V465.9z"/>
+    <path fill="#FFFFFF" d="M235.4 465.9c0 2.8 2.2 5 5 5h103.3c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H240.4c-2.8 0-5 2.2-5 5V465.9z"/>
+    <text transform="matrix(1 0 0 1 240.4453 448.541)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Protoprophyrinogen
+      </tspan>
+      <tspan x="32.5" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        oxidase
+      </tspan>
+    </text>
+  </g>
+  <g id="Coproprophyrinogen_x0D_oxidase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M385 516.8c0 2.8 2.2 5 5 5h106.7c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H390c-2.8 0-5 2.2-5 5V516.8z"/>
+    <path fill="#FFFFFF" d="M385 516.8c0 2.8 2.2 5 5 5h106.7c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H390c-2.8 0-5 2.2-5 5V516.8z"/>
+    <text transform="matrix(1 0 0 1 389.9717 499.3984)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Coproprophyrinogen
+      </tspan>
+      <tspan x="34.2" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        oxidase
+      </tspan>
+    </text>
+  </g>
+  <g id="Glycine__x2B___succinyl_CoA">
+    <path fill="none" stroke="#87C94E" stroke-width="3" d="M229.4 255.3c0 2.8 2.2 5 5 5h115.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H234.4c-2.8 0-5 2.2-5 5V255.3z"/>
+    <path fill="#FFFFFF" d="M229.4 255.3c0 2.8 2.2 5 5 5h115.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H234.4c-2.8 0-5 2.2-5 5V255.3z"/>
+    <text transform="matrix(1 0 0 1 234.4038 252.313)" font-family="'MyriadPro-Regular'" font-size="12">
+      Glycine +  succinyl CoA
+    </text>
+  </g>
+  <g id="δ-aminolevulinic_acid_x0D__x28_ALA_x29_">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M233.6 160.8c0 2.8 2.2 5 5 5h107.1c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H238.6c-2.8 0-5 2.2-5 5V160.8z"/>
+    <path fill="#FFFFFF" d="M233.6 160.8c0 2.8 2.2 5 5 5h107.1c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H238.6c-2.8 0-5 2.2-5 5V160.8z"/>
+    <text transform="matrix(1 0 0 1 238.5557 143.3989)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        δ-aminolevulinic acid
+      </tspan>
+      <tspan x="40" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        (ALA)
+      </tspan>
+    </text>
+  </g>
+  <g id="ALA_synthase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M253.5 207.6c0 2.8 2.2 5 5 5h67.1c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-67.1c-2.8 0-5 2.2-5 5V207.6z"/>
+    <path fill="#FFFFFF" d="M253.5 207.6c0 2.8 2.2 5 5 5h67.1c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-67.1c-2.8 0-5 2.2-5 5V207.6z"/>
+    <text transform="matrix(1 0 0 1 258.5234 204.5996)" font-family="'MyriadPro-Regular'" font-size="12">
+      ALA synthase
+    </text>
+  </g>
+  <g id="ALA_dehydratase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M395.8 153.6c0 2.8 2.2 5 5 5h85c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-85c-2.8 0-5 2.2-5 5V153.6z"/>
+    <path fill="#FFFFFF" d="M395.8 153.6c0 2.8 2.2 5 5 5h85c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-85c-2.8 0-5 2.2-5 5V153.6z"/>
+    <text transform="matrix(1 0 0 1 400.8438 150.5991)" font-family="'MyriadPro-Regular'" font-size="12">
+      ALA dehydratase
+    </text>
+  </g>
+  <g id="Fe2_x2B_">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M179.1 384.1c0 2.8 2.2 5 5 5h25.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-25.2c-2.8 0-5 2.2-5 5V384.1z"/>
+    <path fill="#FFFFFF" d="M179.1 384.1c0 2.8 2.2 5 5 5h25.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-25.2c-2.8 0-5 2.2-5 5V384.1z"/>
+    <text transform="matrix(1 0 0 1 184.0859 381.0874)" font-family="'MyriadPro-Regular'" font-size="12">
+      Fe2+
+    </text>
+  </g>
+  <g id="B6">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M190 235c0 2.8 2.2 5 5 5h12.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H195c-2.8 0-5 2.2-5 5V235z"/>
+    <path fill="#FFFFFF" d="M190 235c0 2.8 2.2 5 5 5h12.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H195c-2.8 0-5 2.2-5 5V235z"/>
+    <text transform="matrix(1 0 0 1 195.0044 232)" font-family="'MyriadPro-Regular'" font-size="12">
+      B6
+    </text>
+  </g>
+  <g id="Acute_intermittent__x0D_porphyria">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M734.7 220.1c0 2.8 2.2 5 5 5h95.2c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-95.2c-2.8 0-5 2.2-5 5V220.1z"/>
+    <path fill="#FFFFFF" d="M734.7 220.1c0 2.8 2.2 5 5 5h95.2c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-95.2c-2.8 0-5 2.2-5 5V220.1z"/>
+    <text transform="matrix(1 0 0 1 739.7407 202.7324)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Acute intermittent 
+      </tspan>
+      <tspan x="23.1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        porphyria
+      </tspan>
+    </text>
+  </g>
+  <g id="Congenital_x0D_erythropoietic_porphyria">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M721 338.8c0 2.8 2.2 5 5 5h122.7c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H726c-2.8 0-5 2.2-5 5V338.8z"/>
+    <path fill="#FFFFFF" d="M721 338.8c0 2.8 2.2 5 5 5h122.7c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H726c-2.8 0-5 2.2-5 5V338.8z"/>
+    <text transform="matrix(1 0 0 1 759.8423 321.3989)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Congenital
+      </tspan>
+      <tspan x="-33.8" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        erythropoietic porphyria
+      </tspan>
+    </text>
+  </g>
+  <g id="Pophyria_x0D_cutanea_tarda">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M747.8 457.5c0 2.8 2.2 5 5 5h69c2.8 0 5-2.2 5-5V430c0-2.8-2.2-5-5-5h-69c-2.8 0-5 2.2-5 5V457.5z"/>
+    <path fill="#FFFFFF" d="M747.8 457.5c0 2.8 2.2 5 5 5h69c2.8 0 5-2.2 5-5V430c0-2.8-2.2-5-5-5h-69c-2.8 0-5 2.2-5 5V457.5z"/>
+    <text transform="matrix(1 0 0 1 765.019 440.0649)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Pophyria
+      </tspan>
+      <tspan x="-12.2" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        cutanea tarda
+      </tspan>
+    </text>
+  </g>
+  <g id="Hereditary_x0D_coproporphyria">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M399.2 614.8c0 2.8 2.2 5 5 5h78.3c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-78.3c-2.8 0-5 2.2-5 5V614.8z"/>
+    <path fill="#FFFFFF" d="M399.2 614.8c0 2.8 2.2 5 5 5h78.3c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-78.3c-2.8 0-5 2.2-5 5V614.8z"/>
+    <text transform="matrix(1 0 0 1 416.9951 597.3984)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Hereditary
+      </tspan>
+      <tspan x="-12.8" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        coproporphyria
+      </tspan>
+    </text>
+  </g>
+  <g id="Variegate_x0D_porphyria">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M57.8 465.9c0 2.8 2.2 5 5 5h49c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-49c-2.8 0-5 2.2-5 5V465.9z"/>
+    <path fill="#FFFFFF" d="M57.8 465.9c0 2.8 2.2 5 5 5h49c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-49c-2.8 0-5 2.2-5 5V465.9z"/>
+    <text transform="matrix(1 0 0 1 63.4829 448.541)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Variegate
+      </tspan>
+      <tspan x="-0.6" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        porphyria
+      </tspan>
+    </text>
+  </g>
+  <g id="Erythropoietic_x0D_protoporphyria">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M43.9 367.7c0 2.8 2.2 5 5 5h76.9c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H48.9c-2.8 0-5 2.2-5 5V367.7z"/>
+    <path fill="#FFFFFF" d="M43.9 367.7c0 2.8 2.2 5 5 5h76.9c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H48.9c-2.8 0-5 2.2-5 5V367.7z"/>
+    <text transform="matrix(1 0 0 1 51.8247 350.3315)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Erythropoietic
+      </tspan>
+      <tspan x="-2.9" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        protoporphyria
+      </tspan>
+    </text>
+  </g>
+  <g id="X-linked_hereditary_x0D_sideroblastic_anemia">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M30.9 214.8c0 2.8 2.2 5 5 5h102.8c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H35.9c-2.8 0-5 2.2-5 5V214.8z"/>
+    <path fill="#FFFFFF" d="M30.9 214.8c0 2.8 2.2 5 5 5h102.8c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H35.9c-2.8 0-5 2.2-5 5V214.8z"/>
+    <text transform="matrix(1 0 0 1 39.6812 197.3999)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        X-linked hereditary
+      </tspan>
+      <tspan x="-3.8" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        sideroblastic anemia
+      </tspan>
+    </text>
+  </g>
+  <g id="ALAD-deficient_x0D_porphyria__x28_rare_x29_">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M399.3 75.1c0 2.8 2.2 5 5 5h78c2.8 0 5-2.2 5-5V47.7c0-2.8-2.2-5-5-5h-78c-2.8 0-5 2.2-5 5V75.1z"/>
+    <path fill="#FFFFFF" d="M399.3 75.1c0 2.8 2.2 5 5 5h78c2.8 0 5-2.2 5-5V47.7c0-2.8-2.2-5-5-5h-78c-2.8 0-5 2.2-5 5V75.1z"/>
+    <text transform="matrix(1 0 0 1 405.3799 57.7314)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        ALAD-deficient
+      </tspan>
+      <tspan x="-1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        porphyria (rare)
+      </tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+body {
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+}
+
+.svgRoot {
+  border: 1px solid #DEDEDE;
+  display: block;
+  height: 80vh;
+  width: 100%;
+}
+
+.svgRoot svg:last-child { display: none; }
+.svgRoot.is-reference-visible svg { opacity: 0.1 }
+.svgRoot.is-reference-visible svg:last-child {
+  display: block;
+  opacity: 1;
+}
+
+.svgControls {
+  position: fixed;
+  top: 1%;
+  right: 1%;
+}

@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" viewBox="0 0 676 248" enable-background="new 0 0 676 248" xml:space="preserve">
+  <g id="Layer_30">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="145" y1="107.3" x2="292" y2="107.3"/>
+    <polygon points="285.5 115.5 284.2 114 291.4 107.3 284.2 100.6 285.5 99.2 294.3 107.3 "/>
+  </g>
+  <g id="Layer_29">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="382" y1="107.3" x2="536" y2="107.3"/>
+    <polygon points="529.9 115.5 528.5 114 535.7 107.3 528.5 100.6 529.9 99.2 538.7 107.3 "/>
+  </g>
+  <g id="Layer_28">
+    <path fill="none" stroke="#000000" stroke-width="2" d="M258.9 138.9c-1.1-17.9-15.7-32.1-33.6-32.1 -18.6 0-33.7 15.3-33.7 34.2"/>
+    <polygon points="266.2 131.4 264.6 130.2 258.7 138.1 251.2 131.7 249.9 133.2 259 141.1 "/>
+  </g>
+  <g id="Layer_27">
+    <path fill="none" stroke="#000000" stroke-width="2" d="M483.5 142.5c-4.9-20.9-17.4-35.7-32-35.7 -15.1 0-27.9 15.9-32.5 37.9"/>
+    <polygon points="489.7 134 487.9 133.1 483.2 141.8 474.9 136.5 473.8 138.1 484 144.6 "/>
+  </g>
+  <g id="Layer_26">
+    <path fill="none" stroke="#000000" stroke-width="2" d="M418.9 179.4c4.4 22.4 17.4 38.6 32.6 38.6 15.7 0 29-17.2 33-40.7"/>
+    <polygon points="412.4 187.7 414.1 188.7 419.1 180.2 427.2 185.8 428.4 184.1 418.5 177.3 "/>
+  </g>
+  <g id="Layer_25">
+    <polyline fill="none" stroke="#000000" stroke-width="2" points="579 123.3 579 160.3 540 160.3 540 184.3 "/>
+    <polygon points="531.8 177.5 533.3 176.2 540 183.4 546.7 176.2 548.2 177.5 540 186.3 "/>
+  </g>
+  <g id="Layer_24">
+    <polyline fill="none" stroke="#000000" stroke-width="2" points="579 123.3 579 160.3 618 160.3 618 184.3 "/>
+    <polygon points="610 177.5 611.5 176.2 618.2 183.4 624.9 176.2 626.3 177.5 618.2 186.3 "/>
+  </g>
+  <g id="Layer_23">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="452" y1="59.3" x2="452" y2="89.3"/>
+    <rect x="445" y="88.3" width="13" height="2"/>
+  </g>
+  <g id="Layer_22">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="225" y1="59.3" x2="225" y2="89.3"/>
+    <rect x="218" y="88.3" width="13" height="2"/>
+  </g>
+  <g id="Layer_21">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="111" y1="123.3" x2="111" y2="190.3"/>
+    <polygon points="102.8 183.9 104.3 182.5 111 189.7 117.7 182.5 119.2 183.9 111 192.7 "/>
+  </g>
+  <g id="Layer_20">
+    <path fill="none" stroke="#000000" stroke-width="2" d="M111 190.5c-0.7-38.3-20-38.3-43.6-38.3"/>
+    <polygon points="118.9 183.6 117.4 182.3 110.9 189.7 104 182.7 102.5 184.1 111 192.7 "/>
+  </g>
+  <g id="Galactose">
+    <path fill="none" stroke="#87C94E" stroke-width="3" d="M81.9 113.5c0 2.8 2.2 5 5 5h48.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H86.9c-2.8 0-5 2.2-5 5V113.5z"/>
+    <path fill="#FFFFFF" d="M81.9 113.5c0 2.8 2.2 5 5 5h48.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H86.9c-2.8 0-5 2.2-5 5V113.5z"/>
+    <text transform="matrix(1 0 0 1 86.9067 110.4673)" font-family="'MyriadPro-Regular'" font-size="12">
+      Galactose
+    </text>
+  </g>
+  <g id="Galactokinase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M184.5 113.5c0 2.8 2.2 5 5 5h69.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-69.7c-2.8 0-5 2.2-5 5V113.5z"/>
+    <path fill="#FFFFFF" d="M184.5 113.5c0 2.8 2.2 5 5 5h69.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-69.7c-2.8 0-5 2.2-5 5V113.5z"/>
+    <text transform="matrix(1 0 0 1 189.4668 110.4673)" font-family="'MyriadPro-Regular'" font-size="12">
+      Galactokinase
+    </text>
+  </g>
+  <g id="Galactose-1-P">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M298 113.5c0 2.8 2.2 5 5 5h68.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H303c-2.8 0-5 2.2-5 5V113.5z"/>
+    <path fill="#FFFFFF" d="M298 113.5c0 2.8 2.2 5 5 5h68.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H303c-2.8 0-5 2.2-5 5V113.5z"/>
+    <text transform="matrix(1 0 0 1 302.9526 110.4673)" font-family="'MyriadPro-Regular'" font-size="12">
+      Galactose-1-P
+    </text>
+  </g>
+  <g id="Uridyltransferase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M402.9 113.5c0 2.8 2.2 5 5 5h84.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-84.8c-2.8 0-5 2.2-5 5V113.5z"/>
+    <path fill="#FFFFFF" d="M402.9 113.5c0 2.8 2.2 5 5 5h84.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-84.8c-2.8 0-5 2.2-5 5V113.5z"/>
+    <text transform="matrix(1 0 0 1 407.9185 110.4673)" font-family="'MyriadPro-Regular'" font-size="12">
+      Uridyltransferase
+    </text>
+  </g>
+  <g id="Glucose-1-P">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M544.2 113.5c0 2.8 2.2 5 5 5h59.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-59.8c-2.8 0-5 2.2-5 5V113.5z"/>
+    <path fill="#FFFFFF" d="M544.2 113.5c0 2.8 2.2 5 5 5h59.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-59.8c-2.8 0-5 2.2-5 5V113.5z"/>
+    <text transform="matrix(1 0 0 1 549.249 110.4673)" font-family="'MyriadPro-Regular'" font-size="12">
+      Glucose-1-P
+    </text>
+  </g>
+  <g id="Glycolysis">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M510.7 209.3c0 2.8 2.2 5 5 5h49c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-49c-2.8 0-5 2.2-5 5V209.3z"/>
+    <path fill="#FFFFFF" d="M510.7 209.3c0 2.8 2.2 5 5 5h49c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-49c-2.8 0-5 2.2-5 5V209.3z"/>
+    <text transform="matrix(1 0 0 1 515.667 206.3335)" font-family="'MyriadPro-Regular'" font-size="12">
+      Glycolysis
+    </text>
+  </g>
+  <g id="Glycogenesis">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M580.2 209.3c0 2.8 2.2 5 5 5h65.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-65.9c-2.8 0-5 2.2-5 5V209.3z"/>
+    <path fill="#FFFFFF" d="M580.2 209.3c0 2.8 2.2 5 5 5h65.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-65.9c-2.8 0-5 2.2-5 5V209.3z"/>
+    <text transform="matrix(1 0 0 1 585.2139 206.3335)" font-family="'MyriadPro-Regular'" font-size="12">
+      Glycogenesis
+    </text>
+  </g>
+  <g id="ATP">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M176.8 163.3c0 2.8 2.2 5 5 5h19.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-19.7c-2.8 0-5 2.2-5 5V163.3z"/>
+    <path fill="#FFFFFF" d="M176.8 163.3c0 2.8 2.2 5 5 5h19.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-19.7c-2.8 0-5 2.2-5 5V163.3z"/>
+    <text transform="matrix(1 0 0 1 181.8203 160.3335)" font-family="'MyriadPro-Regular'" font-size="12">
+      ATP
+    </text>
+  </g>
+  <g id="ADP">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M243.1 163.3c0 2.8 2.2 5 5 5h21.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-21.7c-2.8 0-5 2.2-5 5V163.3z"/>
+    <path fill="#FFFFFF" d="M243.1 163.3c0 2.8 2.2 5 5 5h21.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-21.7c-2.8 0-5 2.2-5 5V163.3z"/>
+    <text transform="matrix(1 0 0 1 248.1396 160.3335)" font-family="'MyriadPro-Regular'" font-size="12">
+      ADP
+    </text>
+  </g>
+  <g id="Aldose_x0D_reductase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M81.7 169.6c0 2.8 2.2 5 5 5h49.2c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H86.7c-2.8 0-5 2.2-5 5V169.6z"/>
+    <path fill="#FFFFFF" d="M81.7 169.6c0 2.8 2.2 5 5 5h49.2c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H86.7c-2.8 0-5 2.2-5 5V169.6z"/>
+    <text transform="matrix(1 0 0 1 94.1846 152.1675)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Aldose
+      </tspan>
+      <tspan x="-7.5" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        reductase
+      </tspan>
+    </text>
+  </g>
+  <g id="UDP-Glu">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M388.9 167.3c0 2.8 2.2 5 5 5h43c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-43c-2.8 0-5 2.2-5 5V167.3z"/>
+    <path fill="#FFFFFF" d="M388.9 167.3c0 2.8 2.2 5 5 5h43c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-43c-2.8 0-5 2.2-5 5V167.3z"/>
+    <text transform="matrix(1 0 0 1 393.9058 164.3335)" font-family="'MyriadPro-Regular'" font-size="12">
+      UDP-Glu
+    </text>
+  </g>
+  <g id="UDP-Gal">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M459.2 167.3c0 2.8 2.2 5 5 5h42.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-42.2c-2.8 0-5 2.2-5 5V167.3z"/>
+    <path fill="#FFFFFF" d="M459.2 167.3c0 2.8 2.2 5 5 5h42.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-42.2c-2.8 0-5 2.2-5 5V167.3z"/>
+    <text transform="matrix(1 0 0 1 464.1533 164.3335)" font-family="'MyriadPro-Regular'" font-size="12">
+      UDP-Gal
+    </text>
+  </g>
+  <g id="_x34_-epimerase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M414.3 223.8c0 2.8 2.2 5 5 5h62c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-62c-2.8 0-5 2.2-5 5V223.8z"/>
+    <path fill="#FFFFFF" d="M414.3 223.8c0 2.8 2.2 5 5 5h62c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-62c-2.8 0-5 2.2-5 5V223.8z"/>
+    <text transform="matrix(1 0 0 1 419.3423 220.8335)" font-family="'MyriadPro-Regular'" font-size="12">
+      4-epimerase
+    </text>
+  </g>
+  <g id="Galactitol">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M82.5 217c0 2.8 2.2 5 5 5h47.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H87.5c-2.8 0-5 2.2-5 5V217z"/>
+    <path fill="#FFFFFF" d="M82.5 217c0 2.8 2.2 5 5 5h47.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H87.5c-2.8 0-5 2.2-5 5V217z"/>
+    <text transform="matrix(1 0 0 1 87.4829 213.9995)" font-family="'MyriadPro-Regular'" font-size="12">
+      Galactitol
+    </text>
+  </g>
+  <g id="Galactokinase_x0D_deficiency">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M185.5 49.2c0 2.8 2.2 5 5 5h69.7c2.8 0 5-2.2 5-5V21.8c0-2.8-2.2-5-5-5h-69.7c-2.8 0-5 2.2-5 5V49.2z"/>
+    <path fill="#FFFFFF" d="M185.5 49.2c0 2.8 2.2 5 5 5h69.7c2.8 0 5-2.2 5-5V21.8c0-2.8-2.2-5-5-5h-69.7c-2.8 0-5 2.2-5 5V49.2z"/>
+    <text transform="matrix(1 0 0 1 190.4673 31.8315)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Galactokinase
+      </tspan>
+      <tspan x="9.4" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        deficiency
+      </tspan>
+    </text>
+  </g>
+  <g id="Classic_x0D_galactosemia">
+    <path fill="none" stroke="#8AC1A0" stroke-width="3" d="M412.1 49.2c0 2.8 2.2 5 5 5h66.4c2.8 0 5-2.2 5-5V21.8c0-2.8-2.2-5-5-5h-66.4c-2.8 0-5 2.2-5 5V49.2z"/>
+    <path fill="#FFFFFF" d="M412.1 49.2c0 2.8 2.2 5 5 5h66.4c2.8 0 5-2.2 5-5V21.8c0-2.8-2.2-5-5-5h-66.4c-2.8 0-5 2.2-5 5V49.2z"/>
+    <text transform="matrix(1 0 0 1 433.7002 31.8315)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Classic
+      </tspan>
+      <tspan x="-16.6" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        galactosemia
+      </tspan>
+    </text>
+  </g>
+  <g id="NADPH">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M16.3 157.8c0 2.8 2.2 5 5 5h37.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H21.3c-2.8 0-5 2.2-5 5V157.8z"/>
+    <path fill="#FFFFFF" d="M16.3 157.8c0 2.8 2.2 5 5 5h37.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H21.3c-2.8 0-5 2.2-5 5V157.8z"/>
+    <text transform="matrix(1 0 0 1 21.2798 154.8335)" font-family="'MyriadPro-Regular'" font-size="12">
+      NADPH
+    </text>
+  </g>
+</svg>

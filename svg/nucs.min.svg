@@ -1,0 +1,413 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" viewBox="0 0 760 653" enable-background="new 0 0 760 653" xml:space="preserve">
+  <g id="Static">
+    <rect x="423.5" y="31.5" fill="none" width="270" height="246"/>
+    <text transform="matrix(1 0 0 1 607.373 40.02)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Purine Synthesis
+      </tspan>
+      <tspan x="82.1" y="0" stroke="#8A1200" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="12"/>
+    </text>
+    <polyline fill="none" stroke="#940004" points="423.5 276.5 423.5 277.5 424.5 277.5 "/>
+    <line fill="none" stroke="#940004" stroke-dasharray="1.99" x1="426.5" y1="277.5" x2="691.5" y2="277.5"/>
+    <polyline fill="none" stroke="#940004" points="692.5 277.5 693.5 277.5 693.5 276.5 "/>
+    <line fill="none" stroke="#940004" stroke-dasharray="2" x1="693.5" y1="274.5" x2="693.5" y2="32"/>
+    <polyline fill="none" stroke="#940004" points="693.5 31 693.5 30 692.5 30 "/>
+    <line fill="none" stroke="#940004" stroke-dasharray="1.99" x1="690.5" y1="30" x2="425.5" y2="30"/>
+    <polyline fill="none" stroke="#940004" points="424.5 30 423.5 30 423.5 31 "/>
+    <line fill="none" stroke="#940004" stroke-dasharray="2" x1="423.5" y1="33" x2="423.5" y2="275.5"/>
+    <rect x="423.5" y="31.5" fill="none" width="270" height="246"/>
+    <text transform="matrix(1 0 0 1 607.373 40.02)" fill="#940004" font-family="'MyriadPro-Regular'" font-size="12">
+      Purine Synthesis 
+    </text>
+    <rect x="36.3" y="33.5" fill="none" width="214.7" height="23.5"/>
+    <text transform="matrix(1 0 0 1 40.332 42.02)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Pyrimidine Synthesis
+      </tspan>
+      <tspan x="103.6" y="0" stroke="#8A1200" stroke-miterlimit="10" font-family="'MyriadPro-Regular'" font-size="12"/>
+    </text>
+    <rect x="36.3" y="33.5" fill="none" width="214.7" height="23.5"/>
+    <text transform="matrix(1 0 0 1 40.332 42.02)" fill="#002394" font-family="'MyriadPro-Regular'" font-size="12">
+      Pyrimidine Synthesis 
+    </text>
+    <polygon fill="none" stroke="#002394" stroke-dasharray="2" points="250.5 295.5 250.5 31.5 36.5 31.5 36.5 295.5 387.7 625.5 727.5 625.5 727.5 295.5 "/>
+  </g>
+  <g id="Layer_4">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M296.4 303.2c-32.2-10.5-54.1-31.7-54.1-56 0-28 29.1-51.8 69.4-60.1"/>
+    <polygon points="293.7 295.7 292.4 296.5 295.9 303 289.2 306 289.8 307.4 298 303.7 "/>
+  </g>
+  <g id="Layer_3">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M363 315c12.5 3.5 21 10.1 21 17.7 0 11-17.9 20-40.3 20.3"/>
+    <path d="M350.4 348c0.2 0.2 0.1 0.5-0.1 0.7l-6.3 4.3 6.6 3.9c0.2 0.1 0.3 0.5 0.2 0.7 -0.1 0.2-0.5 0.3-0.7 0.2l-7.2-4.4c-0.1-0.1-0.2-0.2-0.2-0.4s0.1-0.3 0.2-0.4l7-4.7c0.1-0.1 0.2-0.1 0.3-0.1C350.1 347.8 350.3 347.9 350.4 348z"/>
+  </g>
+  <g id="Layer_59">
+    <line fill="#FFFFFF" x1="190" y1="83" x2="190" y2="184"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="190" y1="83" x2="190" y2="182"/>
+    <polygon points="181.8 175.2 183.3 173.8 190 181.1 196.7 173.8 198.2 175.2 190 184 "/>
+  </g>
+  <g id="Layer_58">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="190" y1="253" x2="190" y2="288"/>
+    <polygon points="190.8 254 198 250.1 198 248.3 191 252.2 191 250.3 198 246.5 198 244.6 191 248.5 191 246.7 198 242.8 198 241 191 244.9 191 243 189 243 189 244.9 182 241 182 242.8 189 246.7 189 248.5 182 244.6 182 246.5 189 250.3 189 252.2 182 248.3 182 250.1 189.2 254 "/>
+    <path d="M198 287c-3 2-5.9 5.1-8 8.4 -2-3.3-5-6.3-8-8.4v-2c3 2.1 5.9 4.6 8 7.7 2.1-3.1 5-5.7 8-7.8V287z"/>
+    <path d="M198 282.2c-3 2-5.9 5.1-8 8.4 -2-3.3-5-6.3-8-8.4v-2c3 2.1 5.9 4.6 8 7.7 2.1-3.1 5-5.7 8-7.8V282.2z"/>
+  </g>
+  <g id="Layer_57">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="175" y1="279" x2="120" y2="279"/>
+    <polygon points="169.7 272.9 168.7 274 174.1 279 168.7 284 169.7 285.1 176.3 279 "/>
+  </g>
+  <g id="Layer_56">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="128" y1="250" x2="178" y2="250"/>
+    <rect x="177" y="244" width="2" height="13"/>
+  </g>
+  <g id="Layer_55">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="230" y1="315" x2="310" y2="315"/>
+    <path d="M303.6 319.8c-0.1-0.2-0.1-0.5 0.2-0.7l6.5-4.1 -6.5-4.1c-0.2-0.1-0.3-0.5-0.2-0.7s0.5-0.3 0.7-0.2l7.1 4.5c0.1 0.1 0.2 0.3 0.2 0.4s-0.1 0.3-0.2 0.4l-7.1 4.5c-0.1 0.1-0.2 0.1-0.3 0.1C303.9 320 303.7 319.9 303.6 319.8z"/>
+  </g>
+  <g id="Layer_54">
+    <line fill="#FFFFFF" x1="340" y1="83" x2="340" y2="169"/>
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="340" y1="83" x2="340" y2="167"/>
+    <polygon points="331.8 160.2 333.3 158.8 340 166.1 346.7 158.8 348.2 160.2 340 169 "/>
+  </g>
+  <g id="Layer_53">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="298" y1="353" x2="232" y2="353"/>
+    <polygon points="237 346.5 238.1 347.6 232.3 353 238.1 358.4 237 359.5 230 353 "/>
+  </g>
+  <g id="Layer_52">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M317 371c0 26 28.8 47.2 64.8 48"/>
+    <polygon points="374.8 426.8 373.5 425.3 381 418.9 374.1 411.9 375.5 410.5 384 419 "/>
+  </g>
+  <g id="Layer_51">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="375" y1="187" x2="543" y2="187"/>
+    <polygon points="375 186 372.7 182 371.6 182 374 186 372.8 186 370.4 182 369.3 182 371.7 186 370.6 186 368.1 182 367 182 369.4 186 368 186 368 187 369.4 187 367 191 368.1 191 370.6 187 371.7 187 369.3 191 370.4 191 372.8 187 374 187 371.6 191 372.7 191 375 187 "/>
+    <path d="M541.7 181c1.2 3 3.2 4.2 5.3 5.5 -2.1 1.3-4 2.5-5.3 5.5h-1.2c1.3-2 2.9-4.2 4.8-5.5 -1.9-1.3-3.6-3.5-4.9-5.5H541.7z"/>
+    <path d="M538.7 181c1.2 3 3.2 4.2 5.3 5.5 -2.1 1.3-4 2.5-5.3 5.5h-1.2c1.3-2 2.9-4.2 4.8-5.5 -1.9-1.3-3.6-3.5-4.9-5.5H538.7z"/>
+  </g>
+  <g id="Layer_50">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="485" y1="81" x2="485" y2="107"/>
+    <polygon points="481.4 103.6 482.1 102.9 485.5 106.5 488.9 102.9 489.6 103.6 485.5 108 "/>
+  </g>
+  <g id="Layer_49">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="485" y1="149" x2="485" y2="174"/>
+    <rect x="479" y="173" width="13" height="2"/>
+  </g>
+  <g id="Layer_48">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="595" y1="187" x2="639" y2="187"/>
+    <polygon points="634.4 193.1 633.4 192 638.8 187 633.4 182 634.4 180.9 641 187 "/>
+  </g>
+  <g id="Layer_47">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="574" y1="206" x2="574" y2="232"/>
+    <path d="M568.2 223.4c0.3-0.2 0.7-0.1 0.8 0.2l4.9 7.7 4.9-7.7c0.2-0.3 0.5-0.4 0.8-0.2s0.4 0.6 0.2 0.8l-5.4 8.5c-0.1 0.2-0.3 0.3-0.5 0.3s-0.4-0.1-0.5-0.3l-5.4-8.5c-0.1-0.1-0.1-0.2-0.1-0.3C568 223.7 568.1 223.5 568.2 223.4z"/>
+  </g>
+  <g id="Layer_46">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="617" y1="119" x2="617" y2="174"/>
+    <rect x="611" y="173" width="13" height="2"/>
+  </g>
+  <g id="Layer_45">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="321" y1="470" x2="321" y2="434"/>
+    <rect x="315" y="433" width="13" height="2"/>
+  </g>
+  <g id="Layer_44">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="437" y1="416" x2="458" y2="416"/>
+    <polygon points="454.6 419.6 453.9 418.9 457.5 415.5 453.9 412.1 454.6 411.4 459 415.5 "/>
+  </g>
+  <g id="Layer_43">
+    <line fill="none" stroke="#000000" stroke-width="2" x1="514" y1="416" x2="639" y2="416"/>
+    <polygon points="634 422 632.9 420.9 638.7 415.5 632.9 410.1 634 409 641 415.5 "/>
+  </g>
+  <g id="Layer_42">
+    <path fill="none" stroke="#000000" stroke-width="2" d="M607.8 484c0 45.5-33.5 82.4-75.2 83.3"/>
+    <polygon points="537.3 560.9 538.4 562 533.2 567.2 538.8 572 537.9 573.2 531 567.3 "/>
+  </g>
+  <g id="Layer_41">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M449.2 508.5c0.6 32.7 16.6 58.9 36.3 58.9"/>
+    <path d="M442.3 518.9c0.4 0.2 0.8 0.1 1-0.3l5.9-9.9 6.5 9.5c0.2 0.3 0.7 0.4 1 0.2 0.3-0.2 0.4-0.7 0.2-1l-7.1-10.5c-0.1-0.2-0.4-0.3-0.6-0.3s-0.5 0.1-0.6 0.4l-6.5 10.9c-0.1 0.1-0.1 0.3-0.1 0.4C442 518.6 442.1 518.8 442.3 518.9z"/>
+  </g>
+  <g id="Layer_40">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M670.8 567.3c0-22.6-15.5-41-34.8-41.7"/>
+    <rect x="635" y="519.2" transform="matrix(-0.9983 -5.860750e-02 5.860750e-02 -0.9983 1240.0963 1087.8229)" width="2" height="13"/>
+  </g>
+  <g id="Layer_39">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M129.8 161.1c26.8-3.1 46.5-13.2 46.5-25.3 0-14.5-28.4-26.2-63.3-26.2"/>
+    <path d="M140.9 166.7c0.2-0.4 0-0.8-0.4-1l-10.4-4.8 8.7-7.4c0.3-0.3 0.4-0.7 0.1-1.1 -0.3-0.3-0.7-0.4-1.1-0.1l-9.6 8.2c-0.2 0.2-0.3 0.4-0.3 0.7s0.2 0.5 0.4 0.6l11.5 5.3c0.1 0.1 0.3 0.1 0.4 0.1C140.6 167.1 140.8 167 140.9 166.7z"/>
+  </g>
+  <g id="Layer_38">
+    <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="577" y1="353" x2="577" y2="388"/>
+    <rect x="570" y="387" width="13" height="2"/>
+  </g>
+  <g id="Layer_37">
+    <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M605 447.6c-1.4-4-3.3-7.7-5.9-11 -21.3-27.9-76.6-21.5-123.6 14.4 -7.9 6.1-15.1 12.6-21.5 19.3"/>
+    <path d="M607.6 438c-0.3-0.1-0.6 0.1-0.7 0.4l-2.1 8.9 -7.2-5.7c-0.3-0.2-0.6-0.2-0.8 0.1 -0.2 0.3-0.2 0.6 0.1 0.8l8 6.2c0.2 0.1 0.4 0.2 0.6 0.1s0.3-0.2 0.4-0.4l2.3-9.9c0-0.1 0-0.2 0-0.3C608 438.2 607.8 438 607.6 438z"/>
+  </g>
+  <g id="Ribose_5-P">
+    <path fill="none" stroke="#87C94E" stroke-width="3" d="M308.7 68.3c0 2.8 2.2 5 5 5h52.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-52.2c-2.8 0-5 2.2-5 5V68.3z"/>
+    <path fill="#FFFFFF" d="M308.7 68.3c0 2.8 2.2 5 5 5h52.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-52.2c-2.8 0-5 2.2-5 5V68.3z"/>
+    <text transform="matrix(1 0 0 1 313.7275 65.3325)" font-family="'MyriadPro-Regular'" font-size="12">
+      Ribose 5-P
+    </text>
+  </g>
+  <g id="PRPP__x28_phosphoribosyl_x0D_pyrophosphate_x29__synthetase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M266.2 136.4c0 2.8 2.2 5 5 5h137.3c2.8 0 5-2.2 5-5V109c0-2.8-2.2-5-5-5H271.2c-2.8 0-5 2.2-5 5V136.4z"/>
+    <path fill="#FFFFFF" d="M266.2 136.4c0 2.8 2.2 5 5 5h137.3c2.8 0 5-2.2 5-5V109c0-2.8-2.2-5-5-5H271.2c-2.8 0-5 2.2-5 5V136.4z"/>
+    <text transform="matrix(1 0 0 1 284.9097 119)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        PRPP (phosphoribosyl
+      </tspan>
+      <tspan x="-13.7" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        pyrophosphate) synthetase
+      </tspan>
+    </text>
+  </g>
+  <g id="PRPP">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M322 193.3c0 2.8 2.2 5 5 5h25.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H327c-2.8 0-5 2.2-5 5V193.3z"/>
+    <path fill="#FFFFFF" d="M322 193.3c0 2.8 2.2 5 5 5h25.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H327c-2.8 0-5 2.2-5 5V193.3z"/>
+    <text transform="matrix(1 0 0 1 327.0293 190.333)" font-family="'MyriadPro-Regular'" font-size="12">
+      PRPP
+    </text>
+  </g>
+  <g id="IMP">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M559.7 193.3c0 2.8 2.2 5 5 5h18.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-18.9c-2.8 0-5 2.2-5 5V193.3z"/>
+    <path fill="#FFFFFF" d="M559.7 193.3c0 2.8 2.2 5 5 5h18.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-18.9c-2.8 0-5 2.2-5 5V193.3z"/>
+    <text transform="matrix(1 0 0 1 564.7148 190.333)" font-family="'MyriadPro-Regular'" font-size="12">
+      IMP
+    </text>
+  </g>
+  <g id="AMP">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M557.5 262.7c0 2.8 2.2 5 5 5h23.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-23.4c-2.8 0-5 2.2-5 5V262.7z"/>
+    <path fill="#FFFFFF" d="M557.5 262.7c0 2.8 2.2 5 5 5h23.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-23.4c-2.8 0-5 2.2-5 5V262.7z"/>
+    <text transform="matrix(1 0 0 1 562.4766 259.666)" font-family="'MyriadPro-Regular'" font-size="12">
+      AMP
+    </text>
+  </g>
+  <g id="GMP">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M646.1 193.3c0 2.8 2.2 5 5 5h23.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-23.8c-2.8 0-5 2.2-5 5V193.3z"/>
+    <path fill="#FFFFFF" d="M646.1 193.3c0 2.8 2.2 5 5 5h23.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-23.8c-2.8 0-5 2.2-5 5V193.3z"/>
+    <text transform="matrix(1 0 0 1 651.1074 190.333)" font-family="'MyriadPro-Regular'" font-size="12">
+      GMP
+    </text>
+  </g>
+  <g id="UMP">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M322.9 321c0 2.8 2.2 5 5 5h23.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-23.8c-2.8 0-5 2.2-5 5V321z"/>
+    <path fill="#FFFFFF" d="M322.9 321c0 2.8 2.2 5 5 5h23.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-23.8c-2.8 0-5 2.2-5 5V321z"/>
+    <text transform="matrix(1 0 0 1 327.9351 317.9995)" font-family="'MyriadPro-Regular'" font-size="12">
+      UMP
+    </text>
+  </g>
+  <g id="UDP">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M305.4 360c0 2.8 2.2 5 5 5h22.1c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-22.1c-2.8 0-5 2.2-5 5V360z"/>
+    <path fill="#FFFFFF" d="M305.4 360c0 2.8 2.2 5 5 5h22.1c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-22.1c-2.8 0-5 2.2-5 5V360z"/>
+    <text transform="matrix(1 0 0 1 310.4302 357)" font-family="'MyriadPro-Regular'" font-size="12">
+      UDP
+    </text>
+  </g>
+  <g id="CTP">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M193.8 360c0 2.8 2.2 5 5 5h19.3c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-19.3c-2.8 0-5 2.2-5 5V360z"/>
+    <path fill="#FFFFFF" d="M193.8 360c0 2.8 2.2 5 5 5h19.3c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-19.3c-2.8 0-5 2.2-5 5V360z"/>
+    <text transform="matrix(1 0 0 1 198.8462 357)" font-family="'MyriadPro-Regular'" font-size="12">
+      CTP
+    </text>
+  </g>
+  <g id="dUDP">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M391.7 422c0 2.8 2.2 5 5 5h28.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-28.9c-2.8 0-5 2.2-5 5V422z"/>
+    <path fill="#FFFFFF" d="M391.7 422c0 2.8 2.2 5 5 5h28.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-28.9c-2.8 0-5 2.2-5 5V422z"/>
+    <text transform="matrix(1 0 0 1 396.7129 419)" font-family="'MyriadPro-Regular'" font-size="12">
+      dUDP
+    </text>
+  </g>
+  <g id="dUMP">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M465.2 422c0 2.8 2.2 5 5 5h30.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-30.6c-2.8 0-5 2.2-5 5V422z"/>
+    <path fill="#FFFFFF" d="M465.2 422c0 2.8 2.2 5 5 5h30.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-30.6c-2.8 0-5 2.2-5 5V422z"/>
+    <text transform="matrix(1 0 0 1 470.2168 419)" font-family="'MyriadPro-Regular'" font-size="12">
+      dUMP
+    </text>
+  </g>
+  <g id="dTMP">
+    <path fill="none" stroke="#C24F4D" stroke-width="3" d="M651.5 422c0 2.8 2.2 5 5 5h28.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-28.8c-2.8 0-5 2.2-5 5V422z"/>
+    <path fill="#FFFFFF" d="M651.5 422c0 2.8 2.2 5 5 5h28.8c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-28.8c-2.8 0-5 2.2-5 5V422z"/>
+    <text transform="matrix(1 0 0 1 656.4512 419)" font-family="'MyriadPro-Regular'" font-size="12">
+      dTMP
+    </text>
+  </g>
+  <g id="Mycophenolate_x3B__x0D_ribavirin">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M572.5 108.4c0 2.8 2.2 5 5 5h81.1c2.8 0 5-2.2 5-5V81c0-2.8-2.2-5-5-5h-81.1c-2.8 0-5 2.2-5 5V108.4z"/>
+    <path fill="#FFFFFF" d="M572.5 108.4c0 2.8 2.2 5 5 5h81.1c2.8 0 5-2.2 5-5V81c0-2.8-2.2-5-5-5h-81.1c-2.8 0-5 2.2-5 5V108.4z"/>
+    <text transform="matrix(1 0 0 1 577.4531 91)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Mycophenolate;
+      </tspan>
+      <tspan x="19.9" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        ribavirin
+      </tspan>
+    </text>
+  </g>
+  <g id="Azathioprine">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M448.2 71c0 2.8 2.2 5 5 5h64.5c2.8 0 5-2.2 5-5V58c0-2.8-2.2-5-5-5h-64.5c-2.8 0-5 2.2-5 5V71z"/>
+    <path fill="#FFFFFF" d="M448.2 71c0 2.8 2.2 5 5 5h64.5c2.8 0 5-2.2 5-5V58c0-2.8-2.2-5-5-5h-64.5c-2.8 0-5 2.2-5 5V71z"/>
+    <text transform="matrix(1 0 0 1 453.2363 68)" font-family="'MyriadPro-Regular'" font-size="12">
+      Azathioprine
+    </text>
+  </g>
+  <g id="_x36_-mercaptopurine">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M434.9 135.5c0 2.8 2.2 5 5 5h91.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-91.2c-2.8 0-5 2.2-5 5V135.5z"/>
+    <path fill="#FFFFFF" d="M434.9 135.5c0 2.8 2.2 5 5 5h91.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-91.2c-2.8 0-5 2.2-5 5V135.5z"/>
+    <text transform="matrix(1 0 0 1 439.9121 132.4995)" font-family="'MyriadPro-Regular'" font-size="12">
+      6-mercaptopurine
+    </text>
+  </g>
+  <g id="Glutamine__x2B__CO2">
+    <path fill="none" stroke="#87C94E" stroke-width="3" d="M142.1 68.3c0 2.8 2.2 5 5 5h86.1c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-86.1c-2.8 0-5 2.2-5 5V68.3z"/>
+    <path fill="#FFFFFF" d="M142.1 68.3c0 2.8 2.2 5 5 5h86.1c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-86.1c-2.8 0-5 2.2-5 5V68.3z"/>
+    <text transform="matrix(1 0 0 1 147.1357 65.3325)" font-family="'MyriadPro-Regular'" font-size="12">
+      Glutamine + CO2
+    </text>
+  </g>
+  <g id="_x32__ATP">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M64.3 119.7c0 2.8 2.2 5 5 5h28.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H69.3c-2.8 0-5 2.2-5 5V119.7z"/>
+    <path fill="#FFFFFF" d="M64.3 119.7c0 2.8 2.2 5 5 5h28.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H69.3c-2.8 0-5 2.2-5 5V119.7z"/>
+    <text transform="matrix(1 0 0 1 69.3037 116.666)" font-family="'MyriadPro-Regular'" font-size="12">
+      2 ATP
+    </text>
+  </g>
+  <g id="_x32__ADP__x2B__Pi__x2B__x0D_Glutamate">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M47.7 175.7c0 2.8 2.2 5 5 5h61.5c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H52.7c-2.8 0-5 2.2-5 5V175.7z"/>
+    <path fill="#FFFFFF" d="M47.7 175.7c0 2.8 2.2 5 5 5h61.5c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H52.7c-2.8 0-5 2.2-5 5V175.7z"/>
+    <text transform="matrix(1 0 0 1 52.7261 158.333)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        2 ADP + Pi +
+      </tspan>
+      <tspan x="4.4" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        Glutamate
+      </tspan>
+    </text>
+  </g>
+  <g id="Carbamoyl_x0D_phosphate_x0D_synthetase_II">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M153.9 150.8c0 2.8 2.2 5 5 5h62.5c2.8 0 5-2.2 5-5V109c0-2.8-2.2-5-5-5h-62.5c-2.8 0-5 2.2-5 5V150.8z"/>
+    <path fill="#FFFFFF" d="M153.9 150.8c0 2.8 2.2 5 5 5h62.5c2.8 0 5-2.2 5-5V109c0-2.8-2.2-5-5-5h-62.5c-2.8 0-5 2.2-5 5V150.8z"/>
+    <text transform="matrix(1 0 0 1 162.9873 118.9995)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Carbamoyl
+      </tspan>
+      <tspan x="0.1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        phosphate
+      </tspan>
+      <tspan x="-4.1" y="28.8" font-family="'MyriadPro-Regular'" font-size="12">
+        synthetase II
+      </tspan>
+    </text>
+  </g>
+  <g id="Carbamoyl_x0D_phosphate">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M158 227.7c0 2.8 2.2 5 5 5h54.4c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H163c-2.8 0-5 2.2-5 5V227.7z"/>
+    <path fill="#FFFFFF" d="M158 227.7c0 2.8 2.2 5 5 5h54.4c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H163c-2.8 0-5 2.2-5 5V227.7z"/>
+    <text transform="matrix(1 0 0 1 162.9873 210.333)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Carbamoyl
+      </tspan>
+      <tspan x="0.1" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        phosphate
+      </tspan>
+    </text>
+  </g>
+  <g id="Leflunomide">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M46.8 256.7c0 2.8 2.2 5 5 5h63.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H51.8c-2.8 0-5 2.2-5 5V256.7z"/>
+    <path fill="#FFFFFF" d="M46.8 256.7c0 2.8 2.2 5 5 5h63.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H51.8c-2.8 0-5 2.2-5 5V256.7z"/>
+    <text transform="matrix(1 0 0 1 51.7959 253.666)" font-family="'MyriadPro-Regular'" font-size="12">
+      Leflunomide
+    </text>
+  </g>
+  <g id="Orotic_acid">
+    <path fill="none" stroke="#9092BA" stroke-width="3" d="M158.1 321c0 2.8 2.2 5 5 5h54.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-54.2c-2.8 0-5 2.2-5 5V321z"/>
+    <path fill="#FFFFFF" d="M158.1 321c0 2.8 2.2 5 5 5h54.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-54.2c-2.8 0-5 2.2-5 5V321z"/>
+    <text transform="matrix(1 0 0 1 163.0596 317.9995)" font-family="'MyriadPro-Regular'" font-size="12">
+      Orotic acid
+    </text>
+  </g>
+  <g id="Aspartate">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M54.3 287c0 2.8 2.2 5 5 5h48.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H59.3c-2.8 0-5 2.2-5 5V287z"/>
+    <path fill="#FFFFFF" d="M54.3 287c0 2.8 2.2 5 5 5h48.4c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H59.3c-2.8 0-5 2.2-5 5V287z"/>
+    <text transform="matrix(1 0 0 1 59.314 284)" font-family="'MyriadPro-Regular'" font-size="12">
+      Aspartate
+    </text>
+  </g>
+  <g id="Thymidylate_x0D_synthase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M540.8 428.4c0 2.8 2.2 5 5 5h62.1c2.8 0 5-2.2 5-5V401c0-2.8-2.2-5-5-5h-62.1c-2.8 0-5 2.2-5 5V428.4z"/>
+    <path fill="#FFFFFF" d="M540.8 428.4c0 2.8 2.2 5 5 5h62.1c2.8 0 5-2.2 5-5V401c0-2.8-2.2-5-5-5h-62.1c-2.8 0-5 2.2-5 5V428.4z"/>
+    <text transform="matrix(1 0 0 1 545.7773 411)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Thymidylate
+      </tspan>
+      <tspan x="8.9" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        synthase
+      </tspan>
+    </text>
+  </g>
+  <g id="DHF">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M592 473.3c0 2.8 2.2 5 5 5h21.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H597c-2.8 0-5 2.2-5 5V473.3z"/>
+    <path fill="#FFFFFF" d="M592 473.3c0 2.8 2.2 5 5 5h21.7c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H597c-2.8 0-5 2.2-5 5V473.3z"/>
+    <text transform="matrix(1 0 0 1 597.002 470.332)" font-family="'MyriadPro-Regular'" font-size="12">
+      DHF
+    </text>
+  </g>
+  <g id="THF">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M494.7 574.3c0 2.8 2.2 5 5 5h19.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-19.6c-2.8 0-5 2.2-5 5V574.3z"/>
+    <path fill="#FFFFFF" d="M494.7 574.3c0 2.8 2.2 5 5 5h19.6c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-19.6c-2.8 0-5 2.2-5 5V574.3z"/>
+    <text transform="matrix(1 0 0 1 499.6836 571.333)" font-family="'MyriadPro-Regular'" font-size="12">
+      THF
+    </text>
+  </g>
+  <g id="Dihydrofolate_x0D_reductase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M548 543.1c0 2.8 2.2 5 5 5H622c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H553c-2.8 0-5 2.2-5 5V543.1z"/>
+    <path fill="#FFFFFF" d="M548 543.1c0 2.8 2.2 5 5 5H622c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5H553c-2.8 0-5 2.2-5 5V543.1z"/>
+    <text transform="matrix(1 0 0 1 552.959 525.668)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Dihydrofolate
+      </tspan>
+      <tspan x="9.9" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        reductase
+      </tspan>
+    </text>
+  </g>
+  <g id="N5N10-methylene_THF">
+    <path fill="none" stroke="#AC57B3" stroke-width="3" d="M387.2 494.7c0 2.8 2.2 5 5 5h113.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H392.2c-2.8 0-5 2.2-5 5V494.7z"/>
+    <path fill="#FFFFFF" d="M387.2 494.7c0 2.8 2.2 5 5 5h113.9c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5H392.2c-2.8 0-5 2.2-5 5V494.7z"/>
+    <text transform="matrix(1 0 0 1 392.1973 491.666)" font-family="'MyriadPro-Regular'" font-size="12">
+      N5N10-methylene THF
+    </text>
+  </g>
+  <g id="Ribonucleotide_x0D_reductase">
+    <path fill="none" stroke="#BC9546" stroke-width="3" d="M278.7 418.4c0 2.8 2.2 5 5 5H360c2.8 0 5-2.2 5-5V391c0-2.8-2.2-5-5-5h-76.3c-2.8 0-5 2.2-5 5V418.4z"/>
+    <path fill="#FFFFFF" d="M278.7 418.4c0 2.8 2.2 5 5 5H360c2.8 0 5-2.2 5-5V391c0-2.8-2.2-5-5-5h-76.3c-2.8 0-5 2.2-5 5V418.4z"/>
+    <text transform="matrix(1 0 0 1 283.6724 401)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        Ribonucleotide
+      </tspan>
+      <tspan x="13.6" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        reductase
+      </tspan>
+    </text>
+  </g>
+  <g id="_x35_-fluorouracil">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M538.3 341.7c0 2.8 2.2 5 5 5h67.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-67.2c-2.8 0-5 2.2-5 5V341.7z"/>
+    <path fill="#FFFFFF" d="M538.3 341.7c0 2.8 2.2 5 5 5h67.2c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-67.2c-2.8 0-5 2.2-5 5V341.7z"/>
+    <text transform="matrix(1 0 0 1 543.252 338.6665)" font-family="'MyriadPro-Regular'" font-size="12">
+      5-fluorouracil
+    </text>
+  </g>
+  <g id="MTX_x2C__TMP_x0D_pyrimethamine">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M627.3 606.1c0 2.8 2.2 5 5 5h77.1c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-77.1c-2.8 0-5 2.2-5 5V606.1z"/>
+    <path fill="#FFFFFF" d="M627.3 606.1c0 2.8 2.2 5 5 5h77.1c2.8 0 5-2.2 5-5v-27.4c0-2.8-2.2-5-5-5h-77.1c-2.8 0-5 2.2-5 5V606.1z"/>
+    <text transform="matrix(1 0 0 1 646.0898 588.668)">
+      <tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="12">
+        MTX, TMP
+      </tspan>
+      <tspan x="-13.8" y="14.4" font-family="'MyriadPro-Regular'" font-size="12">
+        pyrimethamine
+      </tspan>
+    </text>
+  </g>
+  <g id="Hydroxyurea">
+    <path fill="none" stroke="#4D3E3A" stroke-width="3" d="M284.7 498.7c0 2.8 2.2 5 5 5H354c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-64.3c-2.8 0-5 2.2-5 5V498.7z"/>
+    <path fill="#FFFFFF" d="M284.7 498.7c0 2.8 2.2 5 5 5H354c2.8 0 5-2.2 5-5v-13c0-2.8-2.2-5-5-5h-64.3c-2.8 0-5 2.2-5 5V498.7z"/>
+    <text transform="matrix(1 0 0 1 289.6846 495.668)" font-family="'MyriadPro-Regular'" font-size="12">
+      Hydroxyurea
+    </text>
+  </g>
+</svg>
